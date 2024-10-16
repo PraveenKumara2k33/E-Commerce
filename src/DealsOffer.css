@@ -1,0 +1,117 @@
+#sm-banner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#sm-banner .banner-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url('../public/img/banner/trendsoffer.jpg');
+    min-width: 580px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+}
+
+#sm-banner .banner-box2 {
+    background-image: url('../public/img/banner/clothes-hang.jpg');
+}
+
+#sm-banner h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#sm-banner h2 {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+#sm-banner span {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    padding-bottom: 15px;
+}
+
+#sm-banner .banner-box:hover button {
+    background: #088178;
+    border: 1px solid #088178;
+}
+
+#banner3 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 80px;
+}
+
+#banner3 .banner-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url('../public/img/banner/blog-3.jpg');
+    min-width: 30%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+#banner3 .banner-box2 {
+    background-image: url('../public/img/banner/blog-4.jpg');
+}
+
+#banner3 .banner-box3 {
+    background-image: url('../public/img/banner/blog-1.jpg');
+}
+
+#banner3 .banner-box4 {
+    background-image: url('../public/img/banner/combo-offer.jpg');
+}
+
+#banner3 .banner-box5 {
+    background-image: url('../public/img/banner/smartwatch.jpg');
+}
+
+#banner3 .banner-box6 {
+    background-image: url('../public/img/banner/smartphone.jpg');
+}
+
+#banner3 h2 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 22px;
+}
+
+#banner3 h3 {
+    color: #ec544e;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+#banner3 .banner-box {
+    gap: 5px;
+}
+
+#banner3 .banner-box:hover button {
+    background: #088178;
+    border: 1px solid #088178;
+}
+
+#button{
+background: transparent;
+color: #fff;
+border: 1px solid #fff;
+border-radius: 0%;
+font-weight: 600;
+/* align-content: center; */
+}

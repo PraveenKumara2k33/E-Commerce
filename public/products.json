@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "img": "/img/products/j1.jpg",
+    "subImages": [
+      "/img/products/j1.jpg",
+      "/img/products/j1.jpg",
+      "/img/products/j1.jpg",
+      "/img/products/j1.jpg"
+    ],
+    "brand": "Highlander",
+    "name": "Classic Fabulous Men T-Shirts",
+    "price": 50,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 2,
+    "img": "/img/products/j2.jpg",
+    "subImages": [
+      "/img/products/j2.jpg",
+      "/img/products/j2.jpg",
+      "/img/products/j2.jpg",
+      "/img/products/j2.jpg"
+    ],
+    "brand": "Highlander",
+    "name": "Fancy Graceful Men T-Shirt",
+    "price": 78.25,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 3,
+    "img": "/img/products/j3.jpg",
+    "subImages": [
+      "/img/products/j3.jpg",
+      "/img/products/j3.jpg",
+      "/img/products/j3.jpg",
+      "/img/products/j3.jpg"
+    ],
+    "brand": "Allen Solly",
+    "name": "Pretty elegant Men Shirt",
+    "price": 85,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 4,
+    "img": "/img/products/j4.jpg",
+    "subImages": [
+      "/img/products/j4.jpg",
+      "/img/products/j4.jpg",
+      "/img/products/j4.jpg",
+      "/img/products/j4.jpg"
+    ],
+    "brand": "Nike",
+    "name": "Classy designer Men T-Shirt",
+    "price": 95,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 5,
+    "img": "/img/products/f2.jpg",
+    "subImages": [
+      "/img/products/f2.jpg",
+      "/img/products/f2.jpg",
+      "/img/products/f2.jpg",
+      "/img/products/f2.jpg"
+    ],
+    "brand": "adidas",
+    "name": "Cartoon Astronaut T-Shirts",
+    "price": 78,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 6,
+    "img": "/img/products/f6.jpg",
+    "subImages": [
+      "/img/products/f6.jpg",
+      "/img/products/f6.jpg",
+      "/img/products/f6.jpg",
+      "/img/products/f6.jpg"
+    ],
+    "brand": "Peter England",
+    "name": "Double side Shirts",
+    "price": 180,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 7,
+    "img": "/img/products/f4.jpg",
+    "subImages": [
+      "/img/products/f4.jpg",
+      "/img/products/f4.jpg",
+      "/img/products/f4.jpg",
+      "/img/products/f4.jpg"
+    ],
+    "brand": "adidas",
+    "name": "Cartoon Astronaut T-Shirts",
+    "price": 99,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 8,
+    "img": "/img/products/f8.jpg",
+    "subImages": [
+      "/img/products/f8.jpg",
+      "/img/products/f8.jpg",
+      "/img/products/f8.jpg",
+      "/img/products/f8.jpg"
+    ],
+    "brand": "adidas",
+    "name": "Cartoon Astronaut top women",
+    "price": 105,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "dress"
+  },
+  {
+    "id": 9,
+    "img": "/img/products/a1.jpg",
+    "subImages": [
+      "/img/products/a1.jpg",
+      "/img/products/a1.jpg",
+      "/img/products/a1.jpg",
+      "/img/products/a1.jpg"
+    ],
+    "brand": "FabSeasons",
+    "name": "Unisex Wool Winter Skull Cap",
+    "price": 20,
+    "stars": 4,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "cap"
+  },
+  {
+    "id": 10,
+    "img": "/img/products/a2.jpg",
+    "subImages": [
+      "/img/products/a2.jpg",
+      "/img/products/a2.jpg",
+      "/img/products/a2.jpg",
+      "/img/products/a2.jpg"
+    ],
+    "brand": "NIVIA",
+    "name": "NIVIA Basic Duffle Polyester/Gym Bags",
+    "price": 100.70,
+    "stars": 3,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "bag"
+  },
+  {
+    "id": 11,
+    "img": "/img/products/a3.jpg",
+    "subImages": [
+      "/img/products/a3.jpg",
+      "/img/products/a3.jpg",
+      "/img/products/a3.jpg",
+      "/img/products/a3.jpg"
+    ],
+    "brand": "The North Face",
+    "name": "Stylish fabulous Women jacket",
+    "price": 205.45,
+    "stars": 4,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "jacket"
+  },
+  {
+    "id": 12,
+    "img": "/img/products/a4.jpg",
+    "subImages": [
+      "/img/products/a4.jpg",
+      "/img/products/a4.jpg",
+      "/img/products/a4.jpg",
+      "/img/products/a4.jpg"
+    ],
+    "brand": "adidas",
+    "name": "Classic fashionista men jacket",
+    "price": 170,
+    "stars": 3,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "jacket"
+  },
+  {
+    "id": 13,
+    "img": "/img/products/jacket-1.jpg",
+    "subImages": [
+      "/img/products/jacket-1.jpg",
+      "/img/products/jacket-1.jpg",
+      "/img/products/jacket-1.jpg",
+      "/img/products/jacket-1.jpg"
+    ],
+    "brand": "Canada Goose",
+    "name": "Latest modern men jacket",
+    "price": 219.20,
+    "stars": 4,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "jacket"
+  },
+  {
+    "id": 14,
+    "img": "/img/products/jacket-3.jpg",
+    "subImages": [
+      "/img/products/jacket-3.jpg",
+      "/img/products/jacket-3.jpg",
+      "/img/products/jacket-3.jpg",
+      "/img/products/jacket-3.jpg"
+    ],
+    "brand": "adidas",
+    "name": "Stylish fabulous men jacket",
+    "price": 189.25,
+    "stars": 4,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "jacket"
+  },
+  {
+    "id": 15,
+    "img": "/img/products/jacket-5.jpg",
+    "subImages": [
+      "/img/products/jacket-5.jpg",
+      "/img/products/jacket-5.jpg",
+      "/img/products/jacket-5.jpg",
+      "/img/products/jacket-5.jpg"
+    ],
+    "brand": "Nike",
+    "name": "Latest modern Unisex jacket",
+    "price": 199.57,
+    "stars": 5,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "jacket"
+  },
+  {
+    "id": 16,
+    "img": "/img/products/jacket-2.jpg",
+    "subImages": [
+      "/img/products/jacket-2.jpg",
+      "/img/products/jacket-2.jpg",
+      "/img/products/jacket-2.jpg",
+      "/img/products/jacket-2.jpg"
+    ],
+    "brand": "adidas",
+    "name": "Latest modern men jacket",
+    "price": 210.45,
+    "stars": 5,
+    "description": "Make sure to test the application thoroughly and check browser console logs for any issues or errors.",
+    "identifier": "jacket"
+  }
+]

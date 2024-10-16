@@ -1,0 +1,61 @@
+.hero-slide1 h4{
+  font-size: 20px;
+  color: #222;
+}
+.hero-slide1 h2 {
+  font-size: 46px;
+  line-height: 54px;
+  color: #222;
+}
+.hero-slide1 h1 {
+  color: #088178;
+  font-size: 50px;
+  line-height: 64px;
+}
+.hero-slide1 p {
+  font-size: 16px;
+  color: #465b52;
+  margin: 15px 0 20px 0;
+}
+.hero-slide1 .butcustom{
+  color: #088178;
+  background-color: #F5D8B1;
+  border-color: #F5D8B1;
+  cursor: pointer;
+  font-size: 15px;
+  width: fit-content;
+}
+.hero-slide1 .butcustom:hover{
+  color: #088178;
+  background-color: #e8f6ea;
+  border-color: #088178;
+}
+.hero-slide2, .hero-slide3 h4{
+  font-size: 20px;
+}
+.hero-slide2, .hero-slide3 h2 {
+  font-size: 46px;
+  line-height: 54px;
+}
+.hero-slide2 h1, .hero-slide3 h1 {
+  color: #CC0099;
+  font-size: 50px;
+  line-height: 64px;
+}
+.hero-slide2 p, .hero-slide3 p {
+  font-size: 16px;
+  color: #d691e8;
+  margin: 15px 0 20px 0;
+}
+.hero-slide2 .butcustom, .hero-slide3 .butcustom{
+  color: #CC0099;
+  background-color: #F5D8B1;
+  border-color: #F5D8B1;
+  cursor: pointer;
+  font-size: 15px;
+}
+.hero-slide2 .butcustom:hover, .hero-slide3 .butcustom:hover{
+  color: #d691e8;
+  background-color: #e8f6ea;
+  border-color: #d691e8;
+}

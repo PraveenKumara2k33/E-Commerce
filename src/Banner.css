@@ -1,0 +1,28 @@
+/* Banner Styles */
+#banner {
+    background: url('../public/img/banner/b2.jpg') no-repeat center center/cover;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+#banner h4 {
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  
+#banner h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 700;
+  }
+  
+#banner h2 span {
+  color: #ef3636;
+}
+  
